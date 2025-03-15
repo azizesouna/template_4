@@ -1,0 +1,13 @@
+.gamin-librarycard{
+       flex:1 1 100%;
+}
+.gamin-librarycard ul{
+       display: flex;
+       justify-content: space-between;
+       border-bottom:  1px solid var(--color-primary);
+       padding: 25px 0;
+
+}
+.gamin-librarycard h4{
+       font-size: 1rem;
+}

@@ -1,0 +1,6 @@
+export{default as Home} from "../Pages/home/Home"
+export{default as Profile} from "../Pages/profile/profile"
+export{default as Pagenotfound} from "../Pages/pagenotfound/pagenotfound"
+export{default as Brows} from "../Pages/brows/brows"
+export{default as Streams} from "../Pages/streams/streams"
+export{default as Somthingelse} from "../Pages/somthingelse/somthinelse"

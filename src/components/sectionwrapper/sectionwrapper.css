@@ -1,0 +1,6 @@
+.section-wrapper{
+       background-color: rgb(28, 25, 25);
+       border-radius:50PX ;
+       padding: var(--padding-primary);
+       margin-top: var(--margin-primary);
+}

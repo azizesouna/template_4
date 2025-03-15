@@ -1,0 +1,26 @@
+.hero-main{
+       background: url('../../assats/banner-bg.jpg') no-repeat top right/cover;
+       background-color: var(--color-dark);
+      padding: 50PX;
+       color: var(--color-light);
+       border-radius: var(--padding-primary);
+}
+.hero-text{
+       max-width:500PX;
+}
+.hero-title{
+       font-size: 60PX;
+       text-transform: uppercase;
+       margin-bottom: calc(var(-margin-primary )/2);
+       font-weight: var( --font-weight-bold);
+}
+.hero-title em{
+       font-size: normal;
+       color: var(--color-primary);
+}
+.hero-subtitle {
+       font-size: 20PX;
+       color: white;
+       font-weight: var( --font-weight-normal);
+
+}

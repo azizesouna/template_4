@@ -1,0 +1,8 @@
+.cyborg-navbar{
+       min-height: 100PX;
+}
+.container-fluid{
+       display: flex;
+       justify-content: space-between;
+       flex-wrap: wrap;
+}

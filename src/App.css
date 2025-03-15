@@ -1,0 +1,26 @@
+:root{
+       --color-dark :#222121;
+       --color-light:white;
+       --color-primary:#ec6090;
+       --color-darckset:#1f2122;
+       --color-icons :yellow;
+       --color-downlond :green;
+       --distance-primary :50PX;
+       --padding-primary :var(--distance-primary);
+       --margin-primary :var(--distance-primary);
+       --border-raduise-primary :clac(var(--distance-primary)/2);
+       --font-weight-bold:900;
+       --font-weight-normal:400;
+       --font-family-primary :"Poppins", sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;900&display=swap');
+body{
+       font-family: var(--font-family-primary);
+       background-color: var(--color-darckset);
+}
+a{
+text-decoration: none;
+}
+ul{
+       list-style-type: none;
+}

@@ -1,0 +1,6 @@
+footer {
+       text-align: center;
+       padding: 3px;
+       background-color: var(--color-darckset);
+       color: white;
+     }
